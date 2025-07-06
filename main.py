@@ -2,8 +2,8 @@ import streamlit as st
 import importlib
 from PIL import Image
 
-side_bar_logo = Image.open("ui/assets/images/logo.jpg")
-main_logo = Image.open("ui/assets/images/logo-bg.png")
+side_bar_logo = Image.open("assets/images/logo.jpg")
+main_logo = Image.open("assets/images/logo-bg.png")
 
 # ========================
 # Page Configuration
